@@ -8,9 +8,9 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/Miss_Akshi_updates",
-    "repository": "https://github.com/darkphoenix2601/M.V._PLAYER",
-    "success_url": "https://t.me/doreamon_music",
+    "website": "https://t.me/Ruhsuzbeyyy",
+    "repository": "https://github.com/Ruhsuzbey/M.V._PLAYER",
+    "success_url": "https://t.me/ruhsuzbeyyy",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
