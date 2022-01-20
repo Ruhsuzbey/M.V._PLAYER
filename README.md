@@ -22,7 +22,7 @@
     </p>
 
 ## 📊 Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/darkphoenix2601/m.v._player/badge)](https://www.codefactor.io/repository/github/darkphoenix2601/m.v._player)
+[![CodeFactor](https://www.codefactor.io/repository/github/Ruhsuzbey/m.v._player/badge)](https://www.codefactor.io/repository/github/Ruhsuzbey/m.v._player)
 ## 🧪 Get `SESSION_NAME` from below:
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Darkphoenix2601/Pyrogram-String-Session) ``TYPE P ``
@@ -74,7 +74,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkphoenix2601/M.V._PLAYERV2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ruhsuzbey/M.V._PLAYERV2)
 
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
@@ -86,7 +86,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/darkphoenix2601/M.V._PLAYER/ # clone the repo.
+git clone https://github.com/Ruhsuzbey/M.V._PLAYER/ # clone the repo.
 cd video-stream
 pip3 install -U -r requirements.txt
 cp example.env .env # use vim to edit ENVs
